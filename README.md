@@ -1,4 +1,4 @@
-Python courses for data :
+Python courses & ressources for data :
 
 - Discovery
 - Manipulation
